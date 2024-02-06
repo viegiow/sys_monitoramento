@@ -6,9 +6,6 @@ import { Chart } from 'chart.js';
   templateUrl: './dashboard.component.html'
 })
 export class DashboardComponent implements OnInit {
-  
-
-
   constructor() { }
 
   ngOnInit(): void {

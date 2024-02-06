@@ -6,4 +6,16 @@ import { Injectable } from '@angular/core';
 export class HumidityService {
 
   constructor() { }
+
+  getUmidade() {
+    console.log("hmm úmido")
+  }
+
+  getAcidez() {
+    console.log("hmm àcido")
+  }
+
+  getNutrientes() {
+    console.log("hmm úmido")
+  }
 }
